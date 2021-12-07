@@ -29,7 +29,7 @@
 - **Express**
 - **MongoDB**
 
-### `Website Link :` [https://lanze.netlify.app/](https://phaintshack.netlify.app/)
+### `Website Link :` [https://phaintshack.netlify.app/](https://phaintshack.netlify.app/)
 
 <hr/>
 
