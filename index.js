@@ -10,7 +10,7 @@ app.use(cors());
 app.use(bobyParser.json())
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello World')
 })
 
 
